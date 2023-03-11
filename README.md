@@ -13,6 +13,8 @@
 <img src="https://img.shields.io/badge/React-bc3592?style=for-the-badge&logo=react&logoColor=white" alt="ReactJS" />
 <img src="https://img.shields.io/badge/Bootstrap-9ecdab?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap/> 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
+                                                                                                                                             
 </p>
 
 ## Github Stats
